@@ -44,14 +44,14 @@
             // 
             // NombretextBox
             // 
-            this.NombretextBox.Location = new System.Drawing.Point(230, 106);
+            this.NombretextBox.Location = new System.Drawing.Point(332, 106);
             this.NombretextBox.Name = "NombretextBox";
             this.NombretextBox.Size = new System.Drawing.Size(100, 22);
             this.NombretextBox.TabIndex = 1;
             // 
             // Guardarbutton
             // 
-            this.Guardarbutton.Location = new System.Drawing.Point(255, 197);
+            this.Guardarbutton.Location = new System.Drawing.Point(377, 201);
             this.Guardarbutton.Name = "Guardarbutton";
             this.Guardarbutton.Size = new System.Drawing.Size(84, 34);
             this.Guardarbutton.TabIndex = 2;
